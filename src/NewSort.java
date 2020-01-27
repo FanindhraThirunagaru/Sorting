@@ -33,7 +33,7 @@ public class NewSort {
 		// TODO Auto-generated method stub
 		int arr[] = { 12, 11, 13, 5, 6 }; 
 		  
-        NewSort ob = new NewSort(); 
+        NewSort  ob = new NewSort(); 
         ob.sort(arr); 
   
         printArray(arr);
